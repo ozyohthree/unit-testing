@@ -32,7 +32,8 @@
 - Use @Timeout annotation to specify max execution time for a test either at class level or method level
 - Use assertTimeout for more precise control.
 #### Running multiple tests in Parallel
-- Create config file with the following properties;
+- Create config file with the following properties
+
 ```junit.jupiter.execution.parallel.enabled = true```
 ```junit.jupiter.execution.parallel.config.strategy = dynamic```
 #### Annotate Class with
