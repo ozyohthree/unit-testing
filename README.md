@@ -34,10 +34,10 @@
 #### Running multiple tests in Parallel
 - Create config file with the following properties
 
-```junit.jupiter.execution.parallel.enabled = true```
+<code>junit.jupiter.execution.parallel.enabled = true</code>
+<code>junit.jupiter.execution.parallel.config.strategy = dynamic</code>
 
-```junit.jupiter.execution.parallel.config.strategy = dynamic```
-#### Annotate Class with
+- Annotate Class with
 - @Execution(ExecutionMode.CONCURRENT)
 - @ExtendWith(Resolver.class)
 #### To produce reports add below plugins to pom and run 
