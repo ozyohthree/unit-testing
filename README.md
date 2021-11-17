@@ -35,6 +35,7 @@
 - Create config file with the following properties
 
 ```junit.jupiter.execution.parallel.enabled = true```
+
 ```junit.jupiter.execution.parallel.config.strategy = dynamic```
 #### Annotate Class with
 - @Execution(ExecutionMode.CONCURRENT)
