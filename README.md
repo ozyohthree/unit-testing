@@ -54,12 +54,12 @@
     </plugin>
 </plugins>
 ```
-Other Tests
-System Testing
-Integration Testing
-Acceptance Testing
-Performance Testing
-Regression Testing
-Security Testing
-Load Testing
-End-To-End Testing
+###Other types of Tests
+- System Testing
+- Integration Testing
+- Acceptance Testing
+- Performance Testing
+- Regression Testing
+- Security Testing
+- Load Testing
+- End-To-End Testing
