@@ -9,7 +9,7 @@
 > Then - Assert the expected outcome
  
 - Use <code>Assertions (org.junit.jupiter.api.*)</code> to Test (Pass/Fail)
-- Use Assumptions (org.junit.jupiter.api.*) to Run or Abort a Test
+- Use <code>Assumptions (org.junit.jupiter.api.*)</code> to Run or Abort a Test
 #### Make test method executable
 - Use @Test annotation 
 #### Create readable Test reports
