@@ -20,7 +20,7 @@ public class CalculateMethodsMockitoTest {
 
     @Test
     public void testDivide(){
-        assertEquals(2.0, calculateMethods.divide(6,3)); 
+        assertEquals(2.0, calculateMethods.divide(6,3));
     }
 
 }
