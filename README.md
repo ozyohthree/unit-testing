@@ -10,9 +10,9 @@
  
 - Use <code>Assertions (org.junit.jupiter.api.*)</code> to Test (Pass/Fail)
 - Use Assumptions (org.junit.jupiter.api.*) to Run or Abort a Test
-####Make test method executable
+#### Make test method executable
 - Use @Test annotation 
-####Create readable Test reports
+#### Create readable Test reports
 - Use @DisplayName annotation 
 ####Control order of execution of methods
 - Use @TestMethodOrder(MethodOrderer.OrderAnnotation.class) and @Order
